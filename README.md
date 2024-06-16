@@ -1,4 +1,4 @@
-# UniMaasMasterThesis
+# Maastrict University Master Thesis 
 The Code Snippets and the Data Used in the Thesis Model
 
 This repository on Github is formed with the intention of providing the interested parties with the R code snippets and the data used in my Master's Thesis titled "Revisiting Goyal and Welch: New Insights into Equity Premium Prediction Models, and the Significance of Sentiment". 
